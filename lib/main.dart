@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(Bmi());
 }
-jjj
+
 class Bmi extends StatelessWidget {
 
 
