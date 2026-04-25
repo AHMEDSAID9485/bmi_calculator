@@ -207,7 +207,7 @@ class CalculateBmiPage extends StatelessWidget {
                 ),
               ),
             ),
-            SizedBox(height: 15),
+            SizedBox(height: 25),
             Buttom_send(
               on_pers: () {
                 Navigator.pop(context);
